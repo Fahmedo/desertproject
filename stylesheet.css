@@ -409,7 +409,7 @@ footer{
     .nature h1{
         margin: 0;
         padding: 0;
-        marging-top:10px;
+        margin-top: 25px;
         font-size: 15px;
     }
     .nature p{
@@ -434,7 +434,7 @@ footer{
     }
     #service_list .box{
         width: 100px;
-        height: 150px;
+        height: 120px;
         margin: 10px;
         padding: 0;
     }
