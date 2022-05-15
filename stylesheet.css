@@ -412,6 +412,9 @@ footer{
         margin-top: 25px;
         font-size: 15px;
     }
+    .nature h1:hover{
+       display: none;
+    }
     .nature p{
         display: none;
     }
