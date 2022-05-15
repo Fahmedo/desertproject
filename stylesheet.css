@@ -409,6 +409,7 @@ footer{
     .nature h1{
         margin: 0;
         padding: 0;
+        marging-top:10px;
         font-size: 15px;
     }
     .nature p{
